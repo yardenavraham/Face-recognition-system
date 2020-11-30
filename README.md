@@ -12,8 +12,23 @@ After uploading several photos of this woman to the app, the app learned to reco
 
 ## Tech/framework used
 
-Using Python, WPF, machine learning, OpenCV open source.
+Using Python, C# with WPF, machine learning, OpenCV open source.
 
+## Installation
+
+1. Clone this project.
+2. Change your environment variables according to the picture below.
+3. Check that you have Python and WPF in VS on your computer.
+
+![Image of Yaktocat](https://github.com/yardenavraham/Face-recognition-system/blob/master/EnvironmentVariablesScreenShot.jpeg)
+
+
+
+## How to use?
+
+1.Upload at least 10 photos of the person you want to blur in the app.(Responsible for software developer).
+2.Now with the help of WPF user interface, the user can upload as many images as he wants and choose which people the system recognizes he will want to blur.
+3.The images will be blurred and saved in new folder in the user's computer.
 
 ## Credits
 
