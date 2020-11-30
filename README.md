@@ -6,7 +6,7 @@ The goal was to allow the use of images without violating the privacy of individ
 
 
 ## Screenshots
-
+![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/FaceRecognitionScreenShot.jpeg)
 
 ## Tech/framework used
 
