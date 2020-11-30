@@ -6,6 +6,8 @@ The goal was to allow the use of images without violating the privacy of individ
 
 
 ## Screenshots
+After uploading several photos of this woman to the app, the app learned to recognize her. The requirement was that only she would blur in the picture among all the people (here you see part of the picture to keep the privacy of the people:wink:) This woman's face was blurred in several pictures at the same time thus saving time and manpower in blurring the face.
+
 ![Image of Yaktocat](https://github.com/yardenavraham/Face-recognition-system/blob/master/FaceRecognitionScreenShot.jpeg)
 
 ## Tech/framework used
