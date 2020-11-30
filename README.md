@@ -26,9 +26,9 @@ Using Python, C# with WPF, machine learning, OpenCV open source.
 
 ## How to use?
 
-1.Upload at least 10 photos of the person you want to blur in the app.(Responsible for software developer).
-2.Now with the help of WPF user interface, the user can upload as many images as he wants and choose which people the system recognizes he will want to blur.
-3.The images will be blurred and saved in new folder in the user's computer.
+1. Upload at least 10 photos of the person you want to blur in the app.(Responsible for software developer).
+2. Now with the help of WPF user interface, the user can upload as many images as he wants and choose which people the system recognizes he will want to blur.
+3. The images will be blurred and saved in new folder in the user's computer.
 
 ## Credits
 
