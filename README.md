@@ -17,4 +17,15 @@ Include logo/demo screenshot etc.
 
 Using Python, WPF, machine learning, OpenCV open source.
 
-MIT © [YardenAvraham]()
+
+## Credits
+
+This project was done with my classmates:
+- [Oshrit Vidal](https://github.com/oshrit2019)
+- [Shoshi Berko]()
+- [Shira Shapira]()
+- [Sapir Tabay]()
+- [Dvora Rosner]()
+
+
+MIT © [YardenAvraham](https://github.com/yardenavraham)
